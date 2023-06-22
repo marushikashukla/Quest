@@ -1,2 +1,2 @@
 # Quest
-a responsive travel website frontend using html css and js
+a responsive front-end travel website landing page, created using html css and js.
